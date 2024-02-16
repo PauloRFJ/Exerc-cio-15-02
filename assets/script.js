@@ -5,7 +5,6 @@
 //A execução do algoritmo deve ser contínua e o número 0 ou ‘sair’ é a flag para parar a execução.
 
 console.log('main.js')
-// mostrar como tirar os acentos
 let continua = true;
 while (continua) {
     const input = prompt('Digite nome ou código do produto. Digite 0 ou sair para encerrar')    
